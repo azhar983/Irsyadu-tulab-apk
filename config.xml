@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.IrsyaduThulab.Altie" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>IrsyaduThulab</name>
+    <description>Aplikasi Irsyadu Thulab Digital</description>
+    <author email="dev@cordova.apache.org" href="https://cordova.apache.org">
+        TefaTie Team
+    </author>
+    <content src="index.html" />
+    <allow-intent href="http://*/*" />
+    <allow-intent href="https://*/*" />
+<platform name="android">
+    <icon src="resources/icons/android/icon-ldpi.png" density="ldpi" />
+    <icon src="resources/icons/android/icon-mdpi.png" density="mdpi" />
+    <icon src="resources/icons/android/icon-hdpi.png" density="hdpi" />
+    <icon src="resources/icons/android/icon-xhdpi.png" density="xhdpi" />
+    <icon src="resources/icons/android/icon-xxhdpi.png" density="xxhdpi" />
+    <icon src="resources/icons/android/icon-xxxhdpi.png" density="xxxhdpi" />
+</platform>
+<platform name="ios">
+    <icon src="resources/icons/ios/icon-60.png" width="60" height="60" />
+    <icon src="resources/icons/ios/icon-60@2x.png" width="120" height="120" />
+    <icon src="resources/icons/ios/icon-60@3x.png" width="180" height="180" />
+    <icon src="resources/icons/ios/icon-76.png" width="76" height="76" />
+    <icon src="resources/icons/ios/icon-76@2x.png" width="152" height="152" />
+    <icon src="resources/icons/ios/icon-167.png" width="167" height="167" />
+    <icon src="resources/icons/ios/icon-1024.png" width="1024" height="1024" />
+</platform>
+</widget>
